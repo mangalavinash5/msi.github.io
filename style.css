@@ -71,3 +71,8 @@ footer {
   text-align: center;
   padding: 1rem;
 }
+.logo {
+  width: 120px;
+  display: block;
+  margin: 0 auto 10px auto;
+}
